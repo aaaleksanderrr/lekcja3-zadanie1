@@ -1,0 +1,16 @@
+.link-nav {
+  text-decoration: none;
+  border: 3px solid darkblue;
+  border-radius: 10px;
+  border-top-left-radius: 0;
+  border-bottom-right-radius: 0;
+  padding: 5px;
+  color: darkblue;
+}
+
+.link-nav:hover {
+  text-decoration: none;
+  border: 3px solid crimson;
+  border-radius: 3px;
+  color: crimson;
+}
